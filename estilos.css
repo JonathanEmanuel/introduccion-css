@@ -1,0 +1,25 @@
+ /*
+    Selectore por etiqueta
+ */
+
+h1 {
+    color: hotpink;
+    text-align: right;
+}
+
+h3.segundo {
+    color: #33a2ce;
+}
+
+h3.importante {
+    color:blueviolet;
+}
+
+p.cita {
+    background: lightgoldenrodyellow;
+    font-style: italic;
+}
+small {
+    color: #9b9494;
+    font-size: 10px;
+}
